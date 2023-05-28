@@ -13,9 +13,4 @@ This repository contains a Python implementation of a waypoint following behavio
 
 - ROS (Robot Operating System): The code is designed to work with ROS, specifically the TurtleSim simulator.
 
-## Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo.git
