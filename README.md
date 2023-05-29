@@ -21,14 +21,14 @@ git clone https://github.com/oussamahorrigue/TurtleSim-Waypoint-Follower-with-Pr
 
 2. Build the ROS workspace:
 
-cd TurtleSim-Waypoint-Follower-with-Proportional-Control
-catkin_make
+- cd TurtleSim-Waypoint-Follower-with-Proportional-Control
+- catkin_make
 
 
 3. Run the waypoint follower node:
 
-source devel/setup.bash
-rosrun my_package waypoint_multiple_stop_last_point.py
+- source devel/setup.bash
+- rosrun my_package waypoint_multiple_stop_last_point.py
 
 
 ## Customization
